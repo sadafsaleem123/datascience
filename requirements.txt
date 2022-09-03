@@ -7,3 +7,8 @@ numpy
 ipython
 plotly
 branca
+Scikit-Learn
+Statsmodels 
+Keras
+PyTorch
+TensorFlow
